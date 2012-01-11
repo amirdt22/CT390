@@ -1,0 +1,18 @@
+This lab is intended to get your environment set up for the rest of the labs 
+which will follow a similar format.
+
+(1) Download and install:
+* java (jdk 1.6)
+* eclipse (eclipse.org)
+* tomcat 7 (tomcat.apache.org)
+
+(2) Configure eclipse
+* configure server
+* add egit to eclipse
+
+(3) checkout/clone lab0
+* run project on server (Shift+Alt+X R)
+* edit index.jsp and fill it out
+* re-run it/refresh your browser and verify your results
+* export the project as a war, using the format: lastname-lab0.war (all lowercase)
+* submit it on blackboard
