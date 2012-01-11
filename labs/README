@@ -1,0 +1,13 @@
+Each lab will be in it's own folder.  The README in each lab will have instructions.
+
+General instructions for all labs.  Unless otherwise noted: 
+before you start:
+* update your git repository
+when you are done:
+* export the project as a war file
+** naming it all lowercase: lastname-lab#.war 
+** you MUST include the source files
+* submit the war file on blackboard
+** strongly recommended: test your war file before submitting it
+
+lab0 - set up: java, eclipse, tomcat
