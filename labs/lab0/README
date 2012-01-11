@@ -2,13 +2,19 @@ This lab is intended to get your environment set up for the rest of the labs
 which will follow a similar format.
 
 (1) Download and install:
-* java (jdk 1.6)
-* eclipse (eclipse.org)
-* tomcat 7 (tomcat.apache.org)
+* java (JDK6 not JRE)
+** http://www.oracle.com/technetwork/java/javase/downloads/index.html
+* eclipse (IDE for Java EE Developers - the "EE" is important)
+** http://eclipse.org/downloads/
+* tomcat 7 
+** http://tomcat.apache.org/download-70.cgi
 
 (2) Configure eclipse
 * configure server
 * add egit to eclipse
+** http://download.eclipse.org/egit/updates
+* clone repository
+** git://github.com/amirdt22/CT390.git
 
 (3) checkout/clone lab0
 * run project on server (Shift+Alt+X R)
