@@ -39,6 +39,7 @@
 	alternatively from the project explorer: expand Java Resources->src->edu and double click ExampleServlet), 
 	</p>
 	
+  Edit index.jsp (under WebContent) and enter your answers in the "div" tags.
 	<!-- put your answer inside the div tag below -->
 	<div class="answer getpost">
 	</div>
@@ -57,7 +58,7 @@
 </div>
 
 <div class="codes">
-	<p class="question methods">Explain following HTTP return codes: 200, 404, 500
+	<p class="question methods">Explain the following HTTP return codes: 200, 404, 500
 	What is the meaning behind it?  
 	When is it used?  </p>
 	
@@ -67,7 +68,9 @@
 </div>
 
 <div class="parameters">
-<h2>Sending Parameters in links</h2>
+<h2>Sending Parameters</h2>
+<p>For each of the links and buttons below, click it and view the URL and page.  Make sure you understand how the examples are different.</p>
+<h3>Using HTML Links</h3>
 	<p>Simple example:
 	<a href="ParameterExampleServlet?foo=bar">one parameter named foo with value bar</a></p>
 	
@@ -77,7 +80,8 @@
 	<p>We can send the same parameter multiple times: 
 	<a href="ParameterExampleServlet?foo=bar&foo=blah">foo has two values: bar and blah</a></p>
 	
-<h2>Sending Parameters in forms</h2>
+<h3>Using FORMs</h3>
+  <p>Make sure you view the source of the forms.</p>
 	<p>Simple button with hidden parameters (foo=bar):
 	<form action="ParameterExampleServlet">
 		<input type="hidden" name="foo" value="bar">
@@ -124,7 +128,7 @@
 	<div class="answer direction">
 	</div>
 	
-	<p class="question init">What is the init() method used for?  What might you do in there?  Same for destroy()</p>
+	<p class="question init">What is the init() method used for?  What might you do in there?  Who calls it and when?  Same for destroy()</p>
 	
 	<!-- put your answer inside the div tag below -->
 	<div class="answer init">

@@ -25,7 +25,7 @@ public class ExampleServlet extends HttpServlet {
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		response.getWriter().println("I'm still ExampleServlet (look at my URL).");
+		response.getWriter().println("I'm <b>still</b> ExampleServlet (look at my URL).");
 	}
 
 }
