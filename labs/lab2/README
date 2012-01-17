@@ -1,4 +1,4 @@
-This lab will help you learn HTTP servlets by answering questions.
+This lab will help you learn HTTP servlets by writing a servlet.
 
 It follows the standard lab format:
 * pull down the lab from git to your eclipse environment
@@ -15,10 +15,10 @@ Hint: there is a helper video/screencast in blackboard.
     open the "Git Repository" view (CTRL+3 then type "git repo" and select the view)
     right click on the CT390 repo -> pull
     click through any dialogs
-    you should now have lab1 in the working directory
-(2) Import lab1 as a project
-    right click lab1 -> Import projects...
-(3) Run lab1
-    from the "project explorer" right click lab1 -> Run as -> Run on server
+    you should now have lab2 in the working directory
+(2) Import lab2 as a project
+    right click lab2 -> Import projects...
+(3) Run lab2
+    from the "project explorer" right click lab2 -> Run as -> Run on server
     click through the dialogs
 (4) Follow the instructions to complete the lab
