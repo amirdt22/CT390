@@ -27,6 +27,7 @@
 	<li>the first link still work and just say "hello world"</li>
 </ol>
 
+<div class='form'>
 <h2>Hello [Name] via form</h2>
 <ol>
 	<li>Modify your HelloName servlet</li>
@@ -35,6 +36,13 @@
 	<li>try to keep your code <a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself">DRY</a>, so if you have a bunch of duplication between your doGet and doPost method, try to factor it out</li>
 	<li>make sure you didn't break the links above, all links and forms on this page should keep working</li>
 </ol>
+
+<form action="HelloName" method="POST">
+	<input type="text" name="name">
+	<input type="submit"/>
+</form>
+</div>
+
 
 <h2>Hello [Name] via session</h2>
 <ol>
@@ -59,11 +67,6 @@
 	<li>if it all looks good, export it an upload it</li>
 	<li>post any gotchas on the discussion board</li>
 </ol>
-
-<form action="HelloName" method="POST">
-	<input type="text" name="name">
-	<input type="submit"/>
-</form>
 
 <div class="troubleshooting">
 	<h2>Troubleshooting</h2>
