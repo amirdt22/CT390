@@ -60,7 +60,7 @@
 	
 	</div>
 	
-	<p>Why would we use include? <span class="hint">We're already seeing it in use</span></p>
+	<p>Why would we use include? <span class="hint">We're already seeing it in use in this lab.</span></p>
 	<div class="answer includeVsForward">
 	
 	
@@ -70,7 +70,7 @@
 
 <div class="forwardingVsRedirect">
 	<p>This link goes to a <a href="ForwardServlet?stuff=hi_there">forwarding servlet</a>.  
-	Where is it fowarding?  
+	Looks familiar right?  What is this servlet?
 	<span class="answer where">
 	
 	</span></p>
@@ -80,11 +80,11 @@
 	
 	</span></p>
 	
-	<p>We see that it is going to the UppercasingServlet, what is the URL? 
+	<p>We see that it is forwarding to the UppercasingServlet, what is the URL? 
 	<span class="answer url">
 	
 	</span>
-	Why isn't it a different URL from the normal UppercasingServlet link?</p>
+	With forwarding the user sees the same content at a different URL.  What is a scenario where this would be useful?</p>
 	<div class="answer whyURL">
 	
 	</div>
@@ -106,6 +106,11 @@
 	
 	</div>
 
+	<p>What is the difference between redirecting and forwarding?</p>
+	<div class="answer">
+
+
+	</div>
 </div>
 
 </body>
