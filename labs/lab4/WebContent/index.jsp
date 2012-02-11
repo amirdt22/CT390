@@ -25,7 +25,7 @@
 <jsp:include page="WEB-INF/upperForm.html"></jsp:include>
 
 <div class="wtf">
-	<p>submit the form above with "go away", what happens?  What do you notice?  What do you wonder?  How/Why is this happening?
+	<p>What happens when you submit "hello?" What happens when you submit "go away"?  What do you notice?  What do you wonder?  How/Why is this happening?
 	<span class="hint">View the java files.  
 	Search the project for the text you are looking for (in eclipse CTRL+H).  
 	View the console in eclipse while you are submitting the form.</span></p>
