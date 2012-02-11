@@ -1,0 +1,10 @@
+A quick lab to explore the structure of a webapp/war file
+
+Reading: Chapter 5
+
+It follows the standard lab format:
+* pull down the lab from git to your eclipse environment
+* run the lab
+* follow the prompts
+* make and test/view your changes (by running the lab again)
+* export and submit your lab
