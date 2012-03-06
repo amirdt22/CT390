@@ -1,0 +1,12 @@
+A lab on JavaBeans
+
+Reading: Chapter 14
+
+It follows the standard lab format:
+* pull down the lab from git to your eclipse environment
+* run the lab
+* follow the prompts
+* make and test/view your changes (by running the lab again)
+* export and submit your lab
+
+Make sure you fix your build path in eclipse before starting.
