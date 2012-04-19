@@ -7,6 +7,9 @@
 .answer {
 	border: 1px solid blue;
 }
+.grade {
+	border: 1px solid red;
+}
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Lab 1 - Servlets</title>

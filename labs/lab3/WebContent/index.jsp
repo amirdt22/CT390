@@ -10,6 +10,9 @@
 	border: 2px solid blue;
 	margin: 2px;
 }
+.grade {
+  border: 1px solid red;
+}
 </style>
 </head>
 <body>

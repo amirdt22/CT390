@@ -13,6 +13,9 @@
 .hint {
 	color: grey;
 }
+.grade {
+  border: 1px solid red;
+}
 </style>
 </head>
 <body>
